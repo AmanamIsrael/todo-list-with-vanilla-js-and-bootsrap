@@ -1,0 +1,15 @@
+
+body{
+    margin: 0;
+}
+.close-button{
+    color: red;
+}
+li{
+    margin:1%;
+}
+.btn-close{
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+}
